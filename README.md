@@ -16,7 +16,7 @@ Maintaining open-source projects requires time and effort. If you've found my li
 - [IQPullToRefresh](https://github.com/hackiftekhar/IQPullToRefresh) - Easy Pull to refresh and Load more handling on a UIScrollView subclass.
 - [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
 - [IQAPIClient](https://github.com/hackiftekhar/IQAPIClient) - TextField with DropDown support using UIPickerView.
-- [IQUtility](https://github.com/hackiftekhar/IQUtility) - Collection of commonly ysed utility functions.
+- [IQUtility](https://github.com/hackiftekhar/IQUtility) - Collection of commonly used utility functions.
 - [IQPropertyWrapper](https://github.com/hackiftekhar/IQPropertyWrapper) - General property wrappers for auto-conversion between basic data type
 - [IQMediaPickerController](https://github.com/hackiftekhar/IQMediaPickerController) - Audio Image Video Picker Controller.
 - [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - A drop-in library allows to record audio within the app with a nice User Interface.
